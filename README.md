@@ -35,12 +35,15 @@ THEN I am able to successfully create, update, and delete data in my database
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia (Also includes POST, PUT, and DELETE routes.):
 
 Category
+
 ![Categories”.](./Assets/Categories.gif)
 
 Tag
+
 ![Tags”.](./Assets/Tags.gif)
 
 Product
+
 ![Products”.](./Assets/Products.gif)
 
 
